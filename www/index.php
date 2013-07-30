@@ -1,7 +1,7 @@
 <?php
 class bar() {
 
-};
+};ewews
 $var1=”foo”;
 $var2=”bar”;
 $o=new $var2();

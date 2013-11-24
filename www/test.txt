@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dev222fsd
 =======
 ewqeqwdev222fsdfdsfsewqeqd321312312312
 >>>>>>> dev
+=======
+dev222fsdfdsfsewqeqd321312312312
+>>>>>>> origin/master

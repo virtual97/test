@@ -1,6 +1,6 @@
 <?php
 class bar() {
-
+            fsdfsdfs
 };ewews
 $var1=”foo”;
 $var2=”bar”;

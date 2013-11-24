@@ -2,8 +2,8 @@
 class bar() {
             fsdfsdfs
 };ewews
-$var1=”foo”;
-$var2=”bar”;
+$var1=ï¿½fooï¿½;rewrwe
+$var2=ï¿½barï¿½;
 $o=new $var2();
 $o->$var1();
 echo $o->$var1();
